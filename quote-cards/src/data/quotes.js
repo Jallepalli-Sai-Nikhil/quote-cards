@@ -5,7 +5,7 @@ const quotes = [
   { text: "Kindness changes everything quietly.", category: "Green Good" },
   { text: "Grow where you are planted.", category: "Green Good" },
   { text: "Boldness conquers fear.", category: "Bold Red" },
-  // ...more quotes
+  
 ];
 
 export default quotes;
